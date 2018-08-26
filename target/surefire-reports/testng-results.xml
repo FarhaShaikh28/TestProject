@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45" started-at="2018-08-09T14:37:18Z" finished-at="2018-08-09T14:37:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45" started-at="2018-08-09T14:37:18Z" finished-at="2018-08-09T14:37:18Z">
+      <class name="seleniumTests.TestNG2">
+        <test-method status="PASS" signature="SuiteSetup()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="SuiteSetup" is-config="true" duration-ms="11" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteSetup -->
+        <test-method status="PASS" signature="loginApp8()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp8" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" depends-on-methods="seleniumTests.TestNGPractise.SuiteSetup" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp8 -->
+        <test-method status="PASS" signature="BeforeEveryTest()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="BeforeEveryTest" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryTest -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" depends-on-methods="seleniumTests.TestNGPractise.BeforeEveryTest" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="loginApp9()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp9" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp9 -->
+        <test-method status="PASS" signature="loginApp5()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp5" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp5 -->
+        <test-method status="PASS" signature="loginApp1()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp1" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp1 -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="BeforeMethod1" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method status="PASS" signature="loginApp6()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp6" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp6 -->
+        <test-method status="PASS" signature="After1Method()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="After1Method" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After1Method -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="BeforeMethod1" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="test1" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="loginApp5()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp5" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp5 -->
+        <test-method status="PASS" signature="loginApp6()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp6" is-config="true" duration-ms="3" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp6 -->
+        <test-method status="PASS" signature="After1Method()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="After1Method" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After1Method -->
+        <test-method status="PASS" signature="loginApp5()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp5" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp5 -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="BeforeMethod1" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="test2" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="loginApp6()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp6" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp6 -->
+        <test-method status="PASS" signature="After1Method()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="After1Method" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After1Method -->
+        <test-method status="PASS" signature="loginApp10()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp10" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp10 -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="AfterClass" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="AfterEveryTest()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="AfterEveryTest" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" depends-on-methods="seleniumTests.TestNG2.loginApp2" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryTest -->
+        <test-method status="PASS" signature="loginApp2()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp2" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp2 -->
+        <test-method status="FAIL" signature="TearDown()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="TearDown" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" depends-on-methods="seleniumTests.TestNG2.loginApp7" finished-at="2018-08-09T20:07:18Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at seleniumTests.TestNGPractise.TearDown(TestNGPractise.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:308)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="loginApp7()[pri:0, instance:seleniumTests.TestNG2@737996a0]" name="loginApp7" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp7 -->
+      </class> <!-- seleniumTests.TestNG2 -->
+      <class name="seleniumTests.TestNGPractise">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="BeforeMethod1" is-config="true" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="test2" duration-ms="1" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="test1" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="After1Method()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="After1Method" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After1Method -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="BeforeMethod1" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method status="PASS" signature="After1Method()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="After1Method" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After1Method -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:seleniumTests.TestNGPractise@6276ae34]" name="AfterClass" is-config="true" duration-ms="0" started-at="2018-08-09T20:07:18Z" finished-at="2018-08-09T20:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- seleniumTests.TestNGPractise -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

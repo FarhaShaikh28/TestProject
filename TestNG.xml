@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="My Suite" parallel="methods">
+
+<test name="FF Browser test">
+
+<parameter name="BrowserName" value="FF"></parameter>
+<groups>
+<run>
+<include name=""></include>
+</run>
+
+
+</groups>
+<classes>
+<class name="Common.DriverUtil"/>
+</classes>
+</test>
+
+<test name="Chrome Browser test">
+<parameter name="BrowserName" value="Chrome"></parameter>
+<classes>
+<class name="Common.DriverUtil"/>
+</classes>
+</test>
+
+
+
+</suite>
+
